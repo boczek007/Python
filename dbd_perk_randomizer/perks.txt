@@ -1,0 +1,2 @@
+Guardian		 survivor	All	https://deadbydaylight.fandom.com/wiki/Guardian	https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_guardian.png/revision/latest?cb=20210930143606	
+notGuardian		 survivor	All	https://deadbydaylight.fandom.com/wiki/Guardian	https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_guardian.png/revision/latest?cb=20210930143606	
